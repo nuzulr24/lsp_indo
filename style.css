@@ -1,0 +1,12 @@
+body {
+    padding-top: 5rem;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.bg-gradient-blue {
+    background-image: linear-gradient(to left, rgba(33, 147, 176, 0.37), rgba(44, 83, 100, 0.411));
+}
